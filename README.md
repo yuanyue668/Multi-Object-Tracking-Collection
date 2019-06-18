@@ -129,7 +129,7 @@
   "Joint Tracking and Segmentation of Multiple Targets"
   [[paper](https://www.researchgate.net/publication/274951401_Joint_Tracking_and_Segmentation_of_Multiple_Targets)]
 
-## Papers(2014 and after 2014)
+## Papers(2014 and before 2014)
 * Longyin Wen, Wenbo Li, Junjie Yan, Zhen Lei, Dong Yi, Stan Z. Li. <br />
   "Multiple Target Tracking Based on Undirected Hierarchical Relation Hypergraph"
   [[paper](http://www.cbsr.ia.ac.cn/users/lywen/papers/CVPR2014_HyperGraphMultiTargetsTracker.pdf)]
