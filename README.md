@@ -1,6 +1,15 @@
 # Multi-Object Tracking
 
 ## Papers(2019)
+* Zhen He, Jian Li, Daxue Liu, Hangen He, David Barber. <br />
+  "Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers"
+  [[paper](https://arxiv.org/abs/1809.03137)]
+  [[code](https://github.com/zhen-he/tracking-by-animation)]
+
+* Andrii Maksai, Pascal Fua. <br />
+  "Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking"
+  [[paper](https://arxiv.org/pdf/1811.10984.pdf)]
+
 * Jiarui Xu, Yue Cao, Zheng Zhang, Han Hu. <br />
   "Spatial-Temporal Relation Networks for Multi-Object Tracking"
   [[paper](https://arxiv.org/pdf/1904.11489.pdf)]
