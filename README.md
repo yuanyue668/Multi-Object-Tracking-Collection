@@ -1,6 +1,12 @@
 # Multi-Object Tracking
 
 ## Papers(2019)
+* Yihong Xu, Yutong Ban, Xavier Alameda-Pineda, Radu Horaud. <br />
+  "DeepMOT: A Differentiable Framework for Training Multiple Object Trackers"
+  [[paper](https://arxiv.org/pdf/1906.06618)]
+  [[cod](https://github.com/yihongXU/deepMOT)]
+  :star:
+
 * Zhen He, Jian Li, Daxue Liu, Hangen He, David Barber. <br />
   "Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers"
   [[paper](https://arxiv.org/abs/1809.03137)]
