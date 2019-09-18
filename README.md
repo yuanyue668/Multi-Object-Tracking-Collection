@@ -19,11 +19,13 @@
 * Jiarui Xu, Yue Cao, Zheng Zhang, Han Hu. <br />
   "Spatial-Temporal Relation Networks for Multi-Object Tracking"
   [[paper](https://arxiv.org/pdf/1904.11489.pdf)]
+  :star:
 
 * Shuangjie Xu, Daizong Liu, Linchao Bao, Wei Liu, Pan Zhou. <br />
   "MHP-VOS: Multiple Hypotheses Propagation for Video Object Segmentation"
   [[paper](https://arxiv.org/pdf/1904.08141.pdf)]
   [[code](https://github.com/shuangjiexu/MHP-VOS)]
+  :star:
 
 * Philipp Bergmann, Tim Meinhardt, Laura Leal-Taixe. <br />
   "Tracking without bells and whistles"
@@ -37,6 +39,11 @@
   "Learning Non-Uniform Hypergraph for Multi-Object Tracking"
   [[paper](http://www.cs.albany.edu/~lsw/papers/aaai19a.pdf)]
 
+* Peng Chu, Haibin Ling. <br />
+  "FAMNet: Joint Learning of Feature, Affinity and Multi-dimensional Assignmentfor Online Multiple Object Tracking"
+  [[paper](https://arxiv.org/pdf/1904.04989.pdf)]
+  :star:
+
 ## Papers(2018)
 * Erik Bochinski, Tobias Senst, Thomas Sikora. <br />
   "Extending IOU Based Multi-Object Tracking by Visual Information"
@@ -48,6 +55,13 @@
   [[paper](https://arxiv.org/pdf/1809.04427.pdf)]
   [[code](https://github.com/longcw/MOTDT)]
   :star:
+
+* Ergys Ristani, Carlo Tomasi. <br />
+  "Features for Multi-Target Multi-Camera Tracking and Re-Identification"
+  [[paper](https://https://arxiv.org/pdf/1803.10859.pdf)]
+  [[code](http://vision.cs.duke.edu/DukeMTMC/)]
+  :star:
+
 
 * ShiJie Sun, Naveed Akhtar, HuanSheng Song, Ajmal Mian, Mubarak Shah. <br />
   "Deep Affinity Network for Multiple Object Tracking"
@@ -97,6 +111,11 @@
   "Simple Online and Realtime Tracking"
   [[paper](https://arxiv.org/pdf/1602.00763.pdf)]
   [[code](https://github.com/abewley/sort)]
+  :star:
+ 
+ * Leal-Taixé, Laura, C. C. Ferrer, and K. Schindler. <br /> 
+  "Learning by tracking: Siamese CNN for robust target association"
+  [[paper](https://arxiv.org/pdf/1604.07866.pdf)]
   :star:
 
 * Margret Keuper, Siyu Tang, Yu Zhongjie, Bjoern Andres, Thomas Brox, Bernt Schiele. <br />
