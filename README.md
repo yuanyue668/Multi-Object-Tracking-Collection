@@ -58,10 +58,9 @@
 
 * Ergys Ristani, Carlo Tomasi. <br />
   "Features for Multi-Target Multi-Camera Tracking and Re-Identification"
-  [[paper](https://https://arxiv.org/pdf/1803.10859.pdf)]
+  [[paper](https://arxiv.org/pdf/1803.10859.pdf)]
   [[code](http://vision.cs.duke.edu/DukeMTMC/)]
   :star:
-
 
 * ShiJie Sun, Naveed Akhtar, HuanSheng Song, Ajmal Mian, Mubarak Shah. <br />
   "Deep Affinity Network for Multiple Object Tracking"
