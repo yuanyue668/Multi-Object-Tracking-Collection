@@ -1,10 +1,15 @@
 # Multi-Object Tracking
 
 ## Papers(2019)
+* GioeleCiaparrone,FranciscoLuqueSánchez,SihamTabik,LuigiTroiano,RobertoTagliaferri, FranciscoHerrera. <br />
+  "DEEP LEARNING IN VIDEO MULTI-OBJECT TRACKING: A SURVEY"
+  [[paper](https://arxiv.org/pdf/1907.12740.pdf)]
+  :star:
+
 * Yihong Xu, Yutong Ban, Xavier Alameda-Pineda, Radu Horaud. <br />
   "DeepMOT: A Differentiable Framework for Training Multiple Object Trackers"
   [[paper](https://arxiv.org/pdf/1906.06618)]
-  [[cod](https://github.com/yihongXU/deepMOT)]
+  [[code](https://github.com/yihongXU/deepMOT)]
   :star:
 
 * Zhen He, Jian Li, Daxue Liu, Hangen He, David Barber. <br />
@@ -30,6 +35,7 @@
 * Philipp Bergmann, Tim Meinhardt, Laura Leal-Taixe. <br />
   "Tracking without bells and whistles"
   [[paper](https://arxiv.org/pdf/1903.05625.pdf)]
+  [[code](https://github.com/phil-bergmann/tracking_wo_bnw)]
 
 * Weitao Feng, Zhihao Hu, Wei Wu, Junjie Yan, Wanli Ouyang. <br />
   "Multi-Object Tracking with Multiple Cues and Switcher-Aware Classification"
